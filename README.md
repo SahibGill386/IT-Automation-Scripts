@@ -30,4 +30,4 @@ This script automates the discovery process. Running it instantly pulls the nece
 2. Open PowerShell.
 3. Navigate to the folder containing the script.
 4. Execute the script by typing: `.\Get-SystemInfo.ps1`
-
+![My Script](proof.png)
